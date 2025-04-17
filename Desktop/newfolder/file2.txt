@@ -1,3 +1,5 @@
 This is a sample text file.
 I have created this file using nano editor.
 I have updated the data.
+Today is 17 April
+I have updated this file.
